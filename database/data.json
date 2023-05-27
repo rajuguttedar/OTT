@@ -1,0 +1,1021 @@
+{
+  "movies": [
+    {
+      "moviename": "99",
+      "hero": "Ganesh",
+      "heroine": "Bhavana Menon",
+      "director": "Preetham Gubbi",
+      "genre": " Drama Romantic",
+      "poster": "https://static.toiimg.com/thumb/msid-69009782,width-219,height-317,imgsize-34524/69009782.jpg",
+      "trailer": "https://www.youtube.com/embed/b1dOqhPwGKg",
+      "release": "2019",
+      "rating": "8.3",
+      "synopsis": "A tale of romance that is at once heartwarming and heartwrenching, 99 follows the story of Ram and Janu, and their shared destiny. Directed by Preetham Gubbi, the film stars Ganesh and Bhavana in the lead roles.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 1
+    },
+    {
+      "moviename": "Mungaru Male",
+      "hero": "Ganesh",
+      "heroine": "Pooja Ghandi",
+      "director": "Yograj Bhat",
+      "genre": " Drama Romantic",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/mungaru-male-et00312232-13-07-2021-03-22-54.jpg",
+      "trailer": "https://www.youtube.com/embed/J_tzXAD193E\" title=\"YouTube video player",
+      "release": "2006",
+      "rating": "9",
+      "synopsis": "Preetham loves Nandhini but gets heartbroken when he comes to know that her marriage is already fixed. Things change when she challenges him to win her heart.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 2
+    },
+    {
+      "moviename": "My Autograph",
+      "hero": "Kiccha Sudeep",
+      "heroine": "Meena Sridevika",
+      "director": "Kiccha Sudeep",
+      "genre": "Drama Romantic",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzc0Y2YxNjktYTM0OS00ZGYxLWJhZTctNmZjZjRiOTQzNWZkXkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/_dDINPWYxYY",
+      "release": "2006",
+      "rating": "9.5",
+      "synopsis": "The movie begins with Shankar (Sudeep), who runs an advertising agency, boarding a train to visit his native village to invite all of his friends for his wedding. ",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 3
+    },
+    {
+      "moviename": "Paramathma",
+      "hero": "Dr. Puneet Rajkumar",
+      "heroine": "Aindrita Rai",
+      "director": "Yograj Bhat",
+      "genre": "Drama Romantic",
+      "poster": "https://i.ytimg.com/vi/LW2IYHtE5QE/maxresdefault.jpg",
+      "trailer": "https://www.youtube.com/embed/JBRRguVEEOM",
+      "release": "2011",
+      "rating": "7.7",
+      "synopsis": "Param`s father is a retired cardiologist who is helping children. Param takes up many jobs including that of a share broker in Mumbai to Kung Fu expert, but finds little peace. He joins college where he has a group of friends who enjoy being unsuccessful in exams.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 4
+    },
+    {
+      "moviename": "Padavipoorva",
+      "hero": "Pruthvi",
+      "heroine": "Anjali Anish",
+      "director": "Hariprasad Jayanna",
+      "genre": "Comedy Drama Romantic",
+      "poster": "https://teluguvox.com/images/March2023/3/Padavi_Poorva_teluguvox.jpg",
+      "trailer": "https://www.youtube.com/embed/XQwZFJKK8AU",
+      "release": "2022",
+      "rating": "9.6",
+      "synopsis": "Naveen, Nitya and their gang of childhood friends begin their college life with various dreams but there was too much turmoil in the group and they split. Will Navin succeed in getting the group back together?",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 5
+    },
+    {
+      "moviename": "Hondisi Bareyiri",
+      "hero": "Naveen Shankar",
+      "heroine": "Samyukta Hornad",
+      "director": "Ramenahalli Jagannatha",
+      "genre": "Comedy Drama Romantic",
+      "poster": "https://static.toiimg.com/photo/imgsize-17306,msid-97808708/97808708.jpg",
+      "trailer": "https://www.youtube.com/embed/awI6elU5dCs",
+      "release": "2023",
+      "rating": "9.3",
+      "synopsis": "A story of a bunch of college friends who reunite after many years. It focuses on their college life, leading to the responsibilities of adulthood and their struggle to find solace amidst their complex relationships.",
+      "languages": ["Kannada"],
+      "id": 6
+    },
+    {
+      "moviename": "K.G.F. Chapter 2",
+      "hero": "Yash",
+      "heroine": "Srinidhi Shetty",
+      "director": "Prashanth Neel",
+      "genre": "Action Drama Period",
+      "poster": "https://www.bollywoodhungama.com/wp-content/uploads/2022/05/KGF-%E2%80%93-Chapter-2-Box-Office-Film-crosses-Rs.-1200-cr.-at-worldwide-box-office-ranks-as-third-highest-all-time-worldwide-grosser-620x450-5.jpg",
+      "trailer": "https://www.youtube.com/embed/Qah9sSIXJqk",
+      "release": "2022",
+      "rating": "9.3",
+      "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their saviour, the government sees him as a threat to law and order; enemies are clamouring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+      "languages": [
+        "Kannada",
+        "Telugu",
+        "Tamil",
+        "Malayalam",
+        "Hindi"
+      ],
+      "id": 7
+    },
+    {
+      "moviename": "Sparsha",
+      "hero": "Kiccha Sudeep",
+      "heroine": "Sparsha Rekha",
+      "director": " Sunil Kumar Desai",
+      "genre": "Romance",
+      "poster": "https://sund-images.sunnxt.com/17451/1000x1500_1e180c3f-3794-43aa-bf32-0359fc61d054.jpg",
+      "trailer": "https://www.youtube.com/embed/6WxEpWcYmhI",
+      "release": "2000",
+      "rating": "8.9",
+      "synopsis": "Sudeep accidentally knocks down Radha on the railway tracks and she loses a leg. Guilt-ridden, he offers to marry her without letting her know that he was behind the accident.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 8
+    },
+    {
+      "moviename": "Kempe Gowda",
+      "hero": "Kiccha Sudeep",
+      "heroine": "Ragini Dwivedi",
+      "director": "Kiccha Sudeep",
+      "genre": "Action",
+      "poster": "https://pbs.twimg.com/media/FNiwqHmaUAEfV1W.jpg:large",
+      "trailer": "https://www.youtube.com/embed/AbTRlFmTCHs",
+      "release": "2011",
+      "rating": "7.8",
+      "synopsis": "Kempe Gowda, an honest police officer, takes on a gangster, Arumugam. However, the mafia leader has close connections with the bureaucrats who prevent him from the law.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 9
+    },
+    {
+      "moviename": "Appu",
+      "hero": "Dr. Puneet Rajkumar",
+      "heroine": "Rakshita",
+      "director": "Puri Jagannadh",
+      "genre": "Romance Action",
+      "poster": "https://static.toiimg.com/thumb/resizemode-4,width-1200,height-900,msid-82260894/82260894.jpg",
+      "trailer": "https://www.youtube.com/embed/wtpgf0OCp8A",
+      "release": "2002",
+      "rating": "8.8",
+      "synopsis": "Appu is a carefree guy, who spends time hanging with his friends, and is also the son of a head constable named Venkata Swamy. One night, Appu is thrashed by a rival gang at night, but was rescued by a girl named Suchitra. She pays his hospital bills and donates her blood. She is gone from the hospital by the time Appu regains consciousness. When Appu's friends inform him about the girl who rescued him, he starts to fall for her for her kindheartedness, though he did not see her. Suchi later turns out to be the daughter of the city commissioner Rajshekhar.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 10
+    },
+    {
+      "moviename": "Swamy",
+      "hero": "Darshan Thoogudeepa",
+      "heroine": "Gayatri Jayaraman",
+      "director": "M.S. Ramesh",
+      "genre": "Action Romantic",
+      "poster": "https://pbs.twimg.com/media/B978VYiCEAA2u6Y.jpg",
+      "trailer": "https://www.youtube.com/embed/yaz2nmtKCuQ",
+      "release": "2005",
+      "rating": "8",
+      "synopsis": "Swamy, a police officer, arrests Desai`s son for illegal possession of weapons. Owing to this incident, Desai and Swamy lock horns and become enemies.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 11
+    },
+    {
+      "moviename": "Tagaru",
+      "hero": "Dr. Shiva Rajkumar",
+      "heroine": "Bhavana Menon",
+      "director": "Duniya Soori",
+      "genre": " Action Crime Drama",
+      "poster": "https://data1.ibtimes.co.in/photo/en/full/83718/tagaru-upcoming-kannada-action-film-directed-by-duniya-soori-produced-by-kp-srikanth.jpg?w=960",
+      "trailer": "https://www.youtube.com/embed/oSy91wMZKVI",
+      "release": "2018",
+      "rating": "8.4",
+      "synopsis": "Duniya Soori's Tagaru takes us on a bloody ride through the dark underbelly of the underworld and their clash against the police.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 12
+    },
+    {
+      "moviename": "Ugramm",
+      "hero": "Srii Murali",
+      "heroine": "Hariprriya",
+      "director": "Prashanth Neel",
+      "genre": "Action Crime",
+      "poster": "https://cinemachaat.files.wordpress.com/2014/05/agastya-dancing.jpg",
+      "trailer": "https://www.youtube.com/embed/f7XQSsZLjmo",
+      "release": "2014",
+      "rating": "8.3",
+      "synopsis": "Ugramm is a Sanskrit word derived from One of the Greatest Verses of Hindu Mythology... It means Momentous Anger Induced by a Great Period of Tolerance.\n\nAn Indian girl who lives in Australia comes back to Karnataka to visit her mother`s grave. This is when she finds trouble and story of Ugramm begins. The movie tells the past story of the lead actor SriMurali and the present story of the lead actress Haripriya and the connection between these two stories forms the crux of the story.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 13
+    },
+    {
+      "moviename": "Simhadriya Simha",
+      "hero": "Dr. Vishnuvardhan",
+      "heroine": "Bhanupriya Meena",
+      "director": "S. Narayan",
+      "genre": "Drama Dark Comedy",
+      "poster": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4a8239368ae36953a242f2261b26dbaa136ce1205825881c4509864d0dea19f5._RI_V_TTW_.jpg",
+      "trailer": "https://www.youtube.com/embed/2_vObFph0bw",
+      "release": "2002",
+      "rating": "8.5",
+      "synopsis": "Simhadriya Simha is a 2002 Kannada drama film directed by S. Narayan and produced by K. Raghava Rao. The story revolves around the head of 48 villages who is known for his sincerity and wisdom among his fellow villagers. The situation changes after his death, as his elder son take over the throne. The film stars Vishnuvardhan, Bhanupriya, Meena, Ruchita Prasad and Abhijit.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 14
+    },
+    {
+      "moviename": "Salaga",
+      "hero": "Duniya Vijay",
+      "heroine": "Sanjana Anand",
+      "director": "Duniya Vijay",
+      "genre": "Crime Thriller",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/salaga-et00124531-22-01-2020-05-19-23.jpg",
+      "trailer": "https://www.youtube.com/embed/6AOaU039TcA",
+      "release": "2021",
+      "rating": "8.8",
+      "synopsis": "Vijaykumar, alias Salaga, is unknowingly pulled into the realm of the underworld. Samrat, an honest and upright cop, sees through him and decides to bring about justice.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 15
+    },
+    {
+      "moviename": "Gurudev Hoysala",
+      "hero": "Daali Dhananjay",
+      "heroine": "Amrutha Iyengar",
+      "director": "Vijay N",
+      "genre": " Action Crime Thriller",
+      "poster": "https://plansinfo.sgp1.digitaloceanspaces.com/OTT/v2/images/hoysala-893160.jpg",
+      "trailer": "https://www.youtube.com/embed/QgN4x5LNVnA",
+      "release": "2023",
+      "rating": "9.3",
+      "synopsis": "Gurudev Hoysala, an upright police officer, is transferred to Athani to investigate a case of a fellow missing officer. While working on the case, a young couple is brought to the station by one of his subordinates suspecting them of foul play.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 16
+    },
+    {
+      "moviename": "Salaar",
+      "hero": "Prabhas",
+      "heroine": "Shruti Haasan",
+      "director": "Prashanth Neel",
+      "genre": "Action Thriller",
+      "poster": "https://w0.peakpx.com/wallpaper/166/296/HD-wallpaper-salaar-prabas-telugu-movie.jpg",
+      "trailer": "https://www.youtube.com/embed/Zu3aqX9j-5Q",
+      "release": "2024",
+      "rating": "9.5",
+      "synopsis": "Salaar is a multilingual movie starring Prabhas in a prominent role. It is an action thriller directed by Prashanth Neel.",
+      "languages": [
+        "Kannada",
+        "Telugu",
+        "Tamil",
+        "Malayalam",
+        "Hindi"
+      ],
+      "id": 17
+    },
+    {
+      "moviename": "Baahubali 2",
+      "hero": "Prabhas",
+      "heroine": "Anushka Shetty",
+      "director": "S. S. Rajamouli",
+      "genre": "Action Drama Fantasy",
+      "poster": "https://m.economictimes.com/thumb/msid-63392216,width-1200,height-900,resizemode-4,imgsize-235424/baahubali-2-the-conclusion-cleared-for-release-in-china.jpg",
+      "trailer": "https://www.youtube.com/embed/G62HrubdD6o",
+      "release": "2017",
+      "rating": "9.2",
+      "synopsis": "After Shivudu learns that he is no commoner but is, in fact, the son of Amarendra Baahubali, the King of Mahishmati, he sets out on a quest to avenge his father's untimely death, and to also rescue his mother Devasena from the clutches of Bhallaladeva.",
+      "languages": [
+        "Telugu",
+        "Tamil",
+        "Hindi"
+      ],
+      "id": 18
+    },
+    {
+      "moviename": "Rebel",
+      "hero": "Prabhas",
+      "heroine": "Tamannaah Bhatia",
+      "director": "Raghavendra Lawrence",
+      "genre": " Action Drama Romantic",
+      "poster": "https://wallpapercave.com/wp/wp7772787.jpg",
+      "trailer": "https://www.youtube.com/embed/ezfx094p3lE",
+      "release": "2012",
+      "rating": "8.6",
+      "synopsis": "Revenge, Style, Power, Lover, Hunk. He is all of them. He stands up for his love, his feelings, moves to the groove, lives to love, kills to feel and fights for justice. Prabhas is the `Rebel`. This Telugu action film has been written and directed by Raghava Lawrence. The film stars Prabhas, Tamannaah, Deeksha Seth and Krishnam Raju in leading roles.",
+      "languages": [
+        "Telugu"
+      ],
+      "id": 19
+    },
+    {
+      "moviename": "Guru",
+      "hero": "Daggubati Venkatesh",
+      "heroine": "Ritika Singh",
+      "director": "Sudha Kongara Prasad",
+      "genre": "Drama",
+      "poster": "https://wirally.com/wp-content/uploads/2017/01/wirally_guru.jpg",
+      "trailer": "https://www.youtube.com/embed/23UiMaJmW5c",
+      "release": "2016",
+      "rating": "8.3",
+      "synopsis": "A professional boxer, Adi, aspires to win a gold medal for India in an international boxing championship. However, he falls prey to the existing politics in the boxing association, losing an important match to an undeserving opponent, who uses malpractices to win the match. Disheartened, he quits boxing only to return to the boxing ring as a coach to an aggressive fisher-woman Rameshwari, who accomplishes his dream of winning the gold medal for the country.",
+      "languages": [
+        "Telugu"
+      ],
+      "id": 20
+    },
+    {
+      "moviename": "Tulasi",
+      "hero": "Daggubati Venkatesh",
+      "heroine": "Nayanthara",
+      "director": "Boyapati Srinu",
+      "genre": "Action Drama",
+      "poster": "data:image/jpeg;base64,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",
+      "trailer": "https://www.youtube.com/embed/1LkgKwsVBYM",
+      "release": "2007",
+      "rating": "8.3",
+      "synopsis": "Tulasi is a story of Parvataneni Tulasi Ram aka Tulasi (Venkatesh) who is sent by his father to Hyderabad to keep him away from the factional feuds in his native place, Palnadu. He becomes an architect and on one of his trips to abroad, he comes across Vasundhara aka Vasu (Nayantara), who he later marries and raises a family. As he takes them back to his village, he is intrigued by an attack on is father and turns violent. Seeing this Vasu deserts him and their son, Harsha (Atulith). He later realises that his son has a brain clot that is fatal. He summons doctors from abroad to get him treated. Just on the day of operation, his son is kidnapped by gangsters. He saves his son by killing the gangsters. Realising that violence is a neccesary evil that saved her son`s life, Vasu comes back to them.",
+      "languages": [
+        "Telugu"
+      ],
+      "id": 21
+    },
+    {
+      "moviename": "The Ghost",
+      "hero": "Nagarjuna Akkineni",
+      "heroine": "Sonal Chauhan",
+      "director": "Praveen Sattaru",
+      "genre": "Action Thriller",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDc4MWQ0YjctMmYzYy00Zjg3LTk3ODctYzU0MTU3MjRlOTVkXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/o6TOax_-A6w",
+      "release": "2022",
+      "rating": "8.1",
+      "synopsis": "An ex-Interpol officer Vikram aka The Ghost wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family.",
+      "languages": [
+        "Telugu"
+      ],
+      "id": 22
+    },
+    {
+      "moviename": "Wild Dog",
+      "hero": "Nagarjuna Akkineni",
+      "heroine": "Dia Mirza",
+      "director": "Ahishor Solomon",
+      "genre": "Action Thriller",
+      "poster": "https://static.toiimg.com/photo/81293533.cms",
+      "trailer": "https://www.youtube.com/embed/2bKdG12aKyY\" title=\"YouTube video player",
+      "release": "2021",
+      "rating": "6.8",
+      "synopsis": "After a bomb explosion in the city of Hyderabad, controversial officer Vijay Varma, also known as Wild Dog, is brought back to investigate the case. When he identifies the mastermind, Khalid, Vijay conducts a covert operation to catch him.",
+      "languages": [
+        "Telugu"
+      ],
+      "id": 23
+    },
+    {
+      "moviename": "RRR",
+      "hero": "Jr. NTR Ram Charan",
+      "heroine": "Alia Bhatt",
+      "director": "S. S. Rajamouli",
+      "genre": " Action Drama Historical Period",
+      "poster": "https://static.toiimg.com/photo/97174963.cms",
+      "trailer": "https://www.youtube.com/embed/NgBoMJy386M",
+      "release": "2022",
+      "rating": "9.4",
+      "synopsis": "RRR is a period drama set in India during the 1920s, revolving around the inspiring journey of two of India`s freedom fighters - Alluri Sitarama Raju and Komaram Bheem.",
+      "languages": [
+        "Kannada",
+        "Telugu",
+        "Tamil",
+        "Malayalam",
+        "Hindi"
+      ],
+      "id": 24
+    },
+    {
+      "moviename": "Arya 2",
+      "hero": "Allu Arjun",
+      "heroine": "Kajal Aggarwal",
+      "director": "Sukumar Bandreddi",
+      "genre": " Romantic",
+      "poster": "https://pbs.twimg.com/media/Egmm9GOVoAcpJ3X.jpg",
+      "trailer": "https://www.youtube.com/embed/vpfXFqlLA3A",
+      "release": "2009",
+      "rating": "7.7",
+      "synopsis": "Directed by Sukumar, Arya 2 is a follow-up to the actor`s and the director`s previous successful film, Arya. The romantic comedy has Allu Arjun as a software engineer and Kajal Agarwal as his love interest, with Navadeep and Shradda Das as supporting cast.",
+      "languages": [
+        "Telugu"
+      ],
+      "id": 25
+    },
+    {
+      "moviename": "Sarrainodu",
+      "hero": "Allu Arjun",
+      "heroine": "Rakul Preet Singh",
+      "director": "Boyapati Srinu",
+      "genre": " Action Drama Romantic",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGIxNzQ2MzUtODgwZC00MDdkLTllZWYtZTRhODFmZTc2ODJhXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/m_ghk3lhIg0",
+      "release": "2007",
+      "rating": "7.7",
+      "synopsis": "Vairam Dhanush is a ruthless, powerful man who destroys anybody who comes in his way. He is the son of a chief minister which makes him practically untouchable. Ghana is an ex-armyman who comes back home to fight against injustice. Ghana is sent to meet Mahalakshmi as a prospective match for marriage but runs into local MLA Divya and falls in love with her. What happens when Mahalakshmi comes into his life? Who will he choose between the two, and how will he save the people from the powerful Vairam Dhanush?",
+      "languages": [
+        "Telugu"
+      ],
+      "id": 26
+    },
+    {
+      "moviename": "Nannaku Prematho",
+      "hero": "Jr. NTR",
+      "heroine": "Rakul Preet Singh",
+      "director": "Sukumar Bandreddi",
+      "genre": " Action Drama Romantic",
+      "poster": "https://imgnew.outlookindia.com/public/uploads/articles/2016/2/1/nannaku_prematho_20160201.jpg",
+      "trailer": "https://www.youtube.com/embed/Om69gF1iiT4",
+      "release": "2016",
+      "rating": "7.7",
+      "synopsis": "Subramanyam, a business entrepreneur, in last days tells his sons about his painful past and a ruthless businessman Krishnamurthy who is responsible for all the pain. Subramanyam`s youngest son Abhiram takes it upon himself to fulfill his last wish- revenge against the man who destroyed his father. But Krishnamurthy turns out to be as smart as Abhiram and sees through his plan.",
+      "languages": [
+        "Telugu"
+      ],
+      "id": 27
+    },
+    {
+      "moviename": " Trailer No watch options   Hushaaru",
+      "hero": "Tejus Kancherla",
+      "heroine": "Daksha Nagarkar",
+      "director": "Sree Harsha Konuganti",
+      "genre": " Comedy",
+      "poster": "https://static.toiimg.com/thumb/resizemode-4,width-1200,height-900,msid-66313264/66313264.jpg",
+      "trailer": "https://www.youtube.com/embed/_YcaYM4uuBI",
+      "release": "2018",
+      "rating": "8.4",
+      "synopsis": "It is the story of four friends from middle-class families who believe in carving a niche for themselves by not following a trodden path set by others. However, their liberal attitude is condemned by the conservative society. Things get more complicated when one of them faces a major issue. Will this deter their confidence? Will they still be able to achieve their goals?",
+      "languages": [
+        "Telugu"
+      ],
+      "id": 28
+    },
+    {
+      "moviename": "Veede Sarrainodu",
+      "hero": "Jiiva",
+      "heroine": "Nayanatara",
+      "director": "P. S. Ramnath",
+      "genre": "Action Drama Romantic",
+      "poster": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2019/08/31/jiiva-and-Nayanthara-s-Veede-Sarrainodu-Movie-Stills-and-posters-2.jpg?quality=80&zoom=1&ssl=1",
+      "trailer": "https://www.youtube.com/embed/TQTxuHfe1Vk",
+      "release": "2019",
+      "rating": "8",
+      "synopsis": "A small-time crook decides to give up his criminal activities when he falls in love with a kindergarten teacher.",
+      "languages": [
+        "Telugu",
+        "Tamil"
+      ],
+      "id": 29
+    },
+    {
+      "moviename": "Raghuvaran B.Tech",
+      "hero": "Dhanush",
+      "heroine": "Amala Paul",
+      "director": " R. Vel",
+      "genre": " Action Drama Romantic",
+      "poster": "https://e1.pxfuel.com/desktop-wallpaper/247/814/desktop-wallpaper-movie-vip-movie-btech-movie.jpg",
+      "trailer": "https://www.youtube.com/embed/mH_0zziDBaE",
+      "release": "2015",
+      "rating": "8.1",
+      "synopsis": "This movie echoes the sentiment of the youth of today. Dhanush stars as Raghuvaran, an young man whose life is going nowhere.\n\nLiving his life as an unemployed youth, he faces trials and tribulations. His father continues to rebuke him and chastises his life choices. The only support in his life comes from his mother and Shalini, the girl-next-door played by Amala Paul.\n\nSoon Raghuvaran gets the chance to prove himself. He faces hardships that test him and in doing so, he forges a life for himself. Watch Raghuvaran become a man of the world.",
+      "languages": [
+        "Telugu",
+        "Tamil"
+      ],
+      "id": 30
+    },
+    {
+      "moviename": "Life is Beautiful",
+      "hero": "Kaushik",
+      "heroine": "Shriya Saran",
+      "director": "Sekhar Kammula",
+      "genre": "Drama Romantic",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c0/Life_Is_Beautiful_Telugu.jpg",
+      "trailer": "https://www.youtube.com/embed/RE4tqo2eYjw",
+      "release": "2012",
+      "rating": "7.5",
+      "synopsis": "It is a coming of age story of six youngsters, set in the beautiful nostalgic world of a working-middle class neighborhood. The film tracks their journey through the different seasons, festivals, romances, street cricket, colony fights and family gatherings. With the beginning of responsibilities and adulthood looming around the corner, their dreams and aspirations bring them together to make this whole experience magical. `Life is Beautiful` is a story about new beginnings, is a celebration of life and it`s smaller joys.",
+      "languages": [
+        "Telugu"
+      ],
+      "id": 31
+    },
+    {
+      "moviename": "Nishabdham",
+      "hero": "R. Madhavan",
+      "heroine": "Anushka Shetty",
+      "director": "Hemant Madhukar",
+      "genre": " Drama Mystery Thriller",
+      "poster": "https://assets.thehansindia.com/h-upload/2020/07/22/985547-anushka-shetty.webp",
+      "trailer": "https://www.youtube.com/embed/azUa-Qpi-Bo",
+      "release": "2020",
+      "rating": "6.7",
+      "synopsis": "Set against the backdrop of Seattle (USA), Nishabdham is the story of Sakshi (Anushka Shetty), an artist with speech impairment and Anthony (Madhavan) who is a celebrity musician. How the two come together and what transpires from there is what forms the crux of this beautiful story.",
+      "languages": [
+        "Kannada",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "id": 32
+    },
+    {
+      "moviename": "Vaarasudu",
+      "hero": "Vijay",
+      "heroine": "Rashmika Mandanna",
+      "director": "Vamshi Paidipally",
+      "genre": " Action Drama",
+      "poster": "https://moviegalleri.net/wp-content/gallery/varasudu-hd/Varasudu-Movie-HD-Stills-0162d71.jpg",
+      "trailer": "https://www.youtube.com/embed/TnWnXBWzmkc",
+      "release": "2023",
+      "rating": "7.7",
+      "synopsis": "Vijay, The prodigal son of business tycoon Rajendran agrees to take over the reins of the business, much to the chagrin of his brothers. But can Vijay prove himself to be a worthy Vaarasudu and also reunite his now-broken family?",
+      "languages": [
+        "Kannada",
+        "Telugu",
+        "Tamil"
+      ],
+      "id": 33
+    },
+    {
+      "moviename": "Shyam Singha Roy",
+      "hero": "Nani",
+      "heroine": "Sai Pallavi",
+      "director": "Rahul Sankrityayan",
+      "genre": "Period Supernatural Thriller",
+      "poster": "https://newsdailyindia.com/wp-content/uploads/2023/04/Shyam-Singha-Roy-Collections-Days-3-How-Many-Quotes-Do-You-Need-To-Cross-Break-Even.jpg",
+      "trailer": "https://www.youtube.com/embed/QliDRYaknmI",
+      "release": "2021",
+      "rating": "8.6",
+      "synopsis": "There are two timelines. While the present takes place in Hyderabad, the past happened in 1970`s Bengal.",
+      "languages": [
+        "Telugu",
+        "Tamil"
+      ],
+      "id": 34
+    },
+    {
+      "moviename": "Vikram",
+      "hero": "Kamal Haasan",
+      "heroine": "Shivani Narayanan",
+      "director": "Lokesh Kanagaraj",
+      "genre": "Action Thriller",
+      "poster": "https://images.indianexpress.com/2022/06/kamal-suriya.jpg",
+      "trailer": "https://www.youtube.com/embed/OKBMCL-frPU",
+      "release": "2022",
+      "rating": "9.4",
+      "synopsis": "A high-octane action film where a special investigator is assigned a case of serial Killings. As the investigation proceeds, he finds the case is not what it seems to be and leading down this path is only going to end in a war between everyone involved.",
+      "languages": [
+        "Kannada",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "id": 35
+    },
+    {
+      "moviename": "Master",
+      "hero": "Vijay VijaySethupati",
+      "heroine": "Malavika Mohanan",
+      "director": "Lokesh Kanagaraj",
+      "genre": " Action Thriller",
+      "poster": "https://i.pinimg.com/originals/9d/6b/a8/9d6ba8588e2274c4783737a6f51fb414.jpg",
+      "trailer": "https://www.youtube.com/embed/UTiXQcrLlv4",
+      "release": "2021",
+      "rating": "7.1",
+      "synopsis": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster, who uses the children of the school for criminal activities.",
+      "languages": [
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "id": 36
+    },
+    {
+      "moviename": "Theri",
+      "hero": "Vijay",
+      "heroine": "Amy Jackson",
+      "director": "Atlee Kumar",
+      "genre": " Action Drama Thriller",
+      "poster": "https://static.moviecrow.com/marquee/vijays-theri-among-most-watched-hindi-movies-this-august/179911_thumb_665.jpg",
+      "trailer": "https://www.youtube.com/embed/ZK4uGLpkAKk",
+      "release": "2016",
+      "rating": "7.9",
+      "synopsis": "Theri is a thriller starring Vijay in the role of a policeman who takes revenge on the villain after his family is attacked.",
+      "languages": [
+        "Telugu",
+        "Tamil"
+      ],
+      "id": 37
+    },
+    {
+      "moviename": "Anjaan",
+      "hero": "Suriya Sivakumar",
+      "heroine": "Samantha Ruth Prabhu",
+      "director": "N. Linguswamy",
+      "genre": " Action Crime Thriller",
+      "poster": "https://www.themoviedb.org/t/p/w780/ohG9sz1n7wXBQW8yKC3hr3pGYfz.jpg",
+      "trailer": "https://www.youtube.com/embed/MJxEQPMh_io",
+      "release": "2017",
+      "rating": "6.8",
+      "synopsis": "Krishna comes to Mumbai in search of his brother Raju Bhai, an underworld don. Through Raju Bhai`s gangster friends, his past life is revealed. What happened to Raju Bhai? Will Krishna find him?",
+      "languages": [
+        "Telugu",
+        "Tamil"
+      ],
+      "id": 38
+    },
+    {
+      "moviename": "Singam 2",
+      "hero": "Suriya Sivakumar",
+      "heroine": "Hansika Motwani",
+      "director": "Hari Gopalakrishna",
+      "genre": " Action Drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/singam-2--tamil--et00014869-24-03-2017-18-16-02.jpg",
+      "trailer": "https://www.youtube.com/embed/W0tmFq4nwt8",
+      "release": "2013",
+      "rating": "7.8",
+      "synopsis": "The brave and honest policeman, Durai Singam, gets involved in an undercover operation and investigates a drug trafficking ring in a coastal town named Thoothukudi.",
+      "languages": [
+        "Telugu",
+        "Tamil"
+      ],
+      "id": 39
+    },
+    {
+      "moviename": "Jai Bhim",
+      "hero": "Suriya Sivakumar",
+      "heroine": "Rajisha Vijayan",
+      "director": "T.J. Gnanavel",
+      "genre": " Crime Drama",
+      "poster": "https://images.hindi.news18.com/ibnkhabar/uploads/2021/11/Jai-Bhim.jpg",
+      "trailer": "https://www.youtube.com/embed/Gc6dEDnL8JA",
+      "release": "2021",
+      "rating": "8.4",
+      "synopsis": "Jai Bhim is a Tamil movie featuring Suriya, Ravisha Vijayan and Prakash Raj in lead roles.",
+      "languages": [
+        "Kannada",
+        "Telugu",
+        "Tamil"
+      ],
+      "id": 40
+    },
+    {
+      "moviename": "Kadaram Kondan",
+      "hero": "Vikram",
+      "heroine": "Akshara Haasan",
+      "director": "Rajesh Selva",
+      "genre": " Action Thriller",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTAyYTlkN2ItNDY3Yi00MTE2LTk1MzgtMzZiOTMzNTczNzg0XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/qeNL9hktKG8",
+      "release": "2019",
+      "rating": "6.8",
+      "synopsis": "Vasu, a young medico, finds his life descending into chaos after rescuing one of his patients from a murder attempt. His pregnant wife is abducted, and the kidnappers demand the patient he saved in exchange for her safety.\n\nThe patient is none other than Mr. KK, a former agent who is now wanted by the police and criminals alike. With time running out and all sides closing in, the duo must now band together to save not just themselves, but Vasu`s wife and his unborn child.",
+      "languages": [
+        "Tamil"
+      ],
+      "id": 41
+    },
+    {
+      "moviename": "Saamy 2",
+      "hero": "Vikram",
+      "heroine": "Keerthy Suresh",
+      "director": "Hari Gopalakrishna",
+      "genre": " Action Thriller",
+      "poster": "https://data1.ibtimes.co.in/en/full/694348/chiyaan-vikram-saamy-square.jpg",
+      "trailer": "https://www.youtube.com/embed/X7azjtgdDrs",
+      "release": "2018",
+      "rating": "7.1",
+      "synopsis": "Years have flown by, but the saga of vendetta continues as Ramasaamy, the son of firebrand cop Aarusaamy, faces off with the three sons of their former arch-enemy Perumal Pichai.",
+      "languages": [
+        "Telugu",
+        "Tamil"
+      ],
+      "id": 42
+    },
+    {
+      "moviename": "David",
+      "hero": "Vikram",
+      "heroine": "Tabu",
+      "director": "Bejoy Nambiar",
+      "genre": "Action Drama",
+      "poster": "https://aambar.files.wordpress.com/2013/02/david-2013-bollywood-hindi-movie-still-ft-vikram-02.jpg",
+      "trailer": "https://www.youtube.com/embed/4SEwCrsMswc",
+      "release": "2013",
+      "rating": "7.1",
+      "synopsis": "It`s said that everyone arrives and departs with their own destiny but often the destinies of seemingly un-connected people intertwine to impact many lives. David is the tale of three men from different parts of the world, timed in three different eras\n\nWhile in 1975 London, a 30-year-old David is the protege of a mafia don, his namesake in 1999 Mumbai is a musician and the third David stays in contemporary Goa, and is 40!\n\nFilmmaker, Bejoy Nambiar ties the tales of the three and several others with crafty grit.",
+      "languages": [
+        "Tamil"
+      ],
+      "id": 43
+    },
+    {
+      "moviename": "War ",
+      "hero": "Hrithik Roshan Tiger Shroff",
+      "heroine": "Vaani Kapoor",
+      "director": "Siddharth Anand",
+      "genre": "Action Thriller",
+      "poster": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2019/10/03/0521_war.jpg",
+      "trailer": "https://www.youtube.com/embed/tQ0mzXRk-oM",
+      "release": "2019",
+      "rating": "8.9",
+      "synopsis": "Major Kabir Dhaliwal kills V. K. Naidu, a veteran RAW agent, in New Delhi, instead of his assignment to kill Iraqi terrorist, Farid Haqqani. The agency, led by Defence Minister Sherna Patel and Colonel Sunil Luthra, summon Captain Khalid Rahmani, Kabir's protégé, to capture him.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 44
+    },
+    {
+      "moviename": "Kabhi Khushi Kabhie Gham",
+      "hero": "Amitabh Bachchan Shah Rukh Khan Hrithik Roshan",
+      "heroine": "Kajol Kareena Kapoor Khan",
+      "director": "Karan Johar",
+      "genre": " Drama",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGNiOTY0NGMtNmY4NS00YjBlLTgwMTYtMzVlZjA3ZGEwNzNjXkEyXkFqcGdeQXVyMTMzMzUzMDM2._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/7uY1JbWZKPA",
+      "release": "2001",
+      "rating": "7.9",
+      "synopsis": "A wealthy businessman, Yashvardhan Raichand, disowns his adopted son, Rahul, after he marries a middle-class girl, Anjali, against his will. Years later, Yashvardhan's younger son, Rohan, vows to reunite his family.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 45
+    },
+    {
+      "moviename": "Lagaan",
+      "hero": "Aamir Khan",
+      "heroine": "Gracy Singh Rachel Shelley",
+      "director": "Ashutosh Gowariker",
+      "genre": " Drama Musical Romantic",
+      "poster": "https://images.indianexpress.com/2021/06/lagaan-1200.jpg",
+      "trailer": "https://www.youtube.com/embed/Nhi4Azs2nEw",
+      "release": "2001",
+      "rating": "7.9",
+      "synopsis": "It is the story of a village, dating back to the Britisher`s rule. The people from the village are supposed to pay some lagaan or tax to the Britishers every year, but there being a drought in that particular year, they are unable to pay the lagaan. Instead, they make a deal with the Britishers on a game of cricket. Their victory would mean no lagaan for three years and if they lose, they`d have to pay three time the amount of their normal taxes.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 46
+    },
+    {
+      "moviename": "Dilwale Dulhania Le Jayenge",
+      "hero": "Shah Rukh Khan",
+      "heroine": "Kajol",
+      "director": "Aditya Chopra",
+      "genre": " Classic Drama Romantic",
+      "poster": "https://www.koimoi.com/wp-content/new-galleries/2020/10/what-worked-for-raj-and-simran-on-screen-was-basically-the-pure-friendship-that-kajol-and-i-shared-off-screen-shah-rukh-khan-and-kajol-open-up-on-dilwale-dulhania-le-jayenge-one-001.jpg",
+      "trailer": "https://www.youtube.com/embed/5HOjjJuL0TU",
+      "release": "1995",
+      "rating": "8.8",
+      "synopsis": "Dilwale Dulhania Le Jayenge is a story about human relationships.\n\nChaudhry Baldev Singh (Amrish Puri) is a London based immigrant. He, along with his wife Lajwanti (Farida Jalal) and two daughters Simran (Kajol) and Chutki (Pooja Ruparel) have been living in London for the past several years. A true Indian at heart, Chaudhry Baldev Singh is a man of great morals and has tried to imbibe the very same in his daughters. Simran like any other girl dreams of this perfect man and waits for him to walk into her life. Raj Malhotra (Shah Rukh Khan), another London based immigrant is a regular rich spoilt brat brought up in the lap of luxury. How the two strangers meet, fall in love and get hitched is what the movie is all about.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 47
+    },
+    {
+      "moviename": "M.S. Dhoni: The Untold Story",
+      "hero": "Sushant Singh Rajput",
+      "heroine": "Kiara Advani Disha Patani",
+      "director": "Neeraj Pandey",
+      "genre": " Biography Drama",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjAzZjZiMmQtMDZmOC00NjVmLTkyNTItOGI2Mzg4NTBhZTA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/6L6XqWoS8tw",
+      "release": "2016",
+      "rating": "8.5",
+      "synopsis": "M.S. Dhoni, a boy raised in a typical middle-class family defies all odds and becomes one of the greatest captains of the Indian cricket team.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 48
+    },
+    {
+      "moviename": "The Kashmir Files",
+      "hero": "Anupam Kher",
+      "heroine": "Pallavi Joshi",
+      "director": "Vivek Agnihotri",
+      "genre": "Drama Historical",
+      "poster": "https://images.hindustantimes.com/img/2022/12/19/1600x900/kashmir_files_1669688327261_1671456512901_1671456512901.jpg",
+      "trailer": "https://www.youtube.com/embed/A179apttY58",
+      "release": "2022",
+      "rating": "9.1",
+      "synopsis": "The Kashmir Files is a true story, based on video interviews of the first generation victims of the Genocide of Kashmiri Pandit Community In 1990.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 49
+    },
+    {
+      "moviename": "Shershaah",
+      "hero": "Sidharth Malhotra",
+      "heroine": "Kiara Advani",
+      "director": "Vishnuvardhan Kulasekaran",
+      "genre": " Action Biography War",
+      "poster": "https://images.indianexpress.com/2022/01/sid-1.jpg",
+      "trailer": "https://www.youtube.com/embed/Q0FTXnefVBA",
+      "release": "2021",
+      "rating": "8.2",
+      "synopsis": "Shershaah is a true story of a PVC awardee brave Indian soldier - Capt. Vikram Batra whose contributions helped India win the Kargil War of 1999.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 50
+    },
+    {
+      "moviename": "ABCD 2",
+      "hero": "Prabhu Deva Varun Dhawan",
+      "heroine": "Shraddha Kapoor",
+      "director": "Remo D`Souza",
+      "genre": " Musical",
+      "poster": "https://i.pinimg.com/564x/1c/45/90/1c4590336f37be039bad3f57eaa1b25a.jpg",
+      "trailer": "https://www.youtube.com/embed/Yf6wxJfPoE8",
+      "release": "2015",
+      "rating": "7.3",
+      "synopsis": "After bringing to the audiences India`s first 3D Dance Film; ABCD Any Body Can Dance, Disney India and ace Choreographer turned Director Remo D`Souza are back with its spectacular sequel, ABCD 2. The second chapter promises to be even bigger in scale with current heartthrobs Varun Dhawan and Shraddha Kapoor in the lead and the inimitable dancing Star Prabhudheva reprising his role of Vishnu Sir.\n\nThe story traces the journey of an Indian dance troupe, a motley assortment of boys and girls who come from the backstreets of a Mumbai suburb; their rise to fame, sudden downfall and then their heroic attempt to seek vindication by regaining their lost glory and pride. Will they be able to achieve success at the biggest International platform? Will they make their beloved Vishnu Sir proud, who is himself struggling with his not so perfect past?\n\nABCD 2 is a grand 3D Dance Film which travels to the vibrant city of Las Vegas and is a bittersweet journey of love, friendship, betrayal, honor and redemption.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 51
+    },
+    {
+      "moviename": "Bajrangi Bhaijaan",
+      "hero": "Salman Khan",
+      "heroine": "Kareena Kapoor Khan",
+      "director": "Kabir Khan",
+      "genre": " Action Comedy",
+      "poster": "https://www.memezero.com/media/memes/WZ859J.jpg",
+      "trailer": "https://www.youtube.com/embed/4nwAra0mz_Q",
+      "release": "2015",
+      "rating": "7.6",
+      "synopsis": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 52
+    },
+    {
+      "moviename": "Bhajarangi 2",
+      "hero": "Dr. Shiva Rajkumar",
+      "heroine": "Bhavana Menon",
+      "director": "A. Harsha",
+      "genre": " Action Fantasy",
+      "poster": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-1z560893/portrait/1920x77094b4dbc86ffd4954b0ac4bb4c4b6d812.jpg",
+      "trailer": "https://www.youtube.com/embed/CcrdrVx2VDs",
+      "release": "2021",
+      "rating": "8.5",
+      "synopsis": "What happens when an honest forest officer Bhajarangi crosses paths with evil that has descended to destroy the earth.",
+      "languages": [
+        "Kannada"
+      ],
+      "id": 53
+    },
+    {
+      "moviename": "Bhaag Milkha Bhaag",
+      "hero": "Farhan Akhtar",
+      "heroine": "Divya Dutta",
+      "director": "Rakeysh Omprakash",
+      "genre": " Biography Drama",
+      "poster": "https://www.socialsamosa.com/wp-content/uploads/2013/08/Bhag-Milkha-Bhag-Poster-3.jpg",
+      "trailer": "https://www.youtube.com/embed/0nR9JS2WsNg",
+      "release": "2013",
+      "rating": "7.9",
+      "synopsis": "The biopic explores the journey of Milkha Singh – one of the greatest Olympians of India. From his early struggles in life to becoming a World Champion, Milkha Singh ascends to glory by tirelessly battling the obstacles that come his way.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 54
+    },
+    {
+      "moviename": "Koi... Mil Gaya",
+      "hero": "Hrithik Roshan",
+      "heroine": "Preity Zinta",
+      "director": "Rakesh Roshan",
+      "genre": " Drama Fantasy Romance",
+      "poster": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/08/07/Pictures/_972ec1ec-7b5e-11e7-b5e3-d817f67cfdf5.jpg",
+      "trailer": "https://www.youtube.com/embed/VxDudRIMKrc",
+      "release": "2003",
+      "rating": "7.8",
+      "synopsis": "A bollywood science fiction film about a boy who accidentally summons an alien through his dead father`s computer, who was a scientist. The alien spaceship comes to earth, but one of the alien gets abandoned behind. This boy finds him and names him `Jadoo`. Jadoo is loved my this boy and his friends but the Indian Government gets the information about Jadoo. To save him from the government`s persecution, Rohit pledges to send Jadoo back to his planet safely.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 55
+    },
+    {
+      "moviename": "Jo and Jo",
+      "hero": " Mathew Thomas",
+      "heroine": "Nikhila Vimal",
+      "director": "Arun D Jose",
+      "genre": "Drama Comedy Family",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGI0MTRiYWQtMWYwNy00YzFlLWExYjYtMzAzOTkwODZmOTRjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://www.youtube.com/embed/95ADPYoSRPc",
+      "release": "2022",
+      "rating": "9",
+      "synopsis": "Jomol is the elder daughter of Baby and Lilly. Their second child is Jomon, and Jomol thinks her parents love him more because he is a male. Jomon is a carefree person and holds certain chauvinistic values to an extent when it comes to the power struggle between him and his sister. Jomol with her keen perceptive skills catches Jomon's every little mischiefs and exposes them to their parents. All of these create a rift between them. Meanwhile, a love letter arrives at their house, and they both think that the letter was meant for the other person, and they both try to unravel the full story behind the letter with evidence, and this forms the story. Parallel plot-lines include Manoj's infatuation on Jomol, Eby's plans to meet his girlfriend Nimmy during second-phase of COVID-19, etc.",
+      "languages": [
+        "Hindi"
+      ],
+      "id": 56
+    },
+    {
+      "moviename": "Premam",
+      "hero": "Nivin Pauly",
+      "heroine": "Anupama Parameswaran Sai Pallavi",
+      "director": "Alphonse Puthren",
+      "genre": " Comedy",
+      "poster": "https://onlookersmedia.in/wp-content/uploads/2015/05/Nivin-Pauly-Anupama-in-Premam-Premam-lots-of-reasons-to-hope-for-Premam-Movie-Stills-Images-Photos-Malayalam-Movie-2015-Onlookers-Media.jpg",
+      "trailer": "https://www.youtube.com/embed/6pvwWXleO-s",
+      "release": "2015",
+      "rating": "8.8",
+      "synopsis": "Premam is all about romance and fun, though there is more to it. The life of a person going through various phases is the premise of the story. Infatuation, romance, first love, pain of separation all those emotions that we all come across in our lives are discussed in an interesting way.",
+      "languages": [
+        "Malayalam"
+      ],
+      "id": 57
+    },
+    {
+      "moviename": "Hridayam",
+      "hero": "Pranav Mohanlal",
+      "heroine": "Kalyani Priyadarshan",
+      "director": "Vineeth Sreenivasan",
+      "genre": " Drama Romantic",
+      "poster": "https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/hridayam_top_main.jpg",
+      "trailer": "https://www.youtube.com/embed/C2FU7fj0IQc",
+      "release": "2022",
+      "rating": "9.3",
+      "synopsis": "Hridayam is an emotional journey of Arun, his carefree bachelor days in Engineering college, and how he matures through various phases of life.",
+      "languages": [
+        "Malayalam"
+      ],
+      "id": 58
+    },
+    {"id": 59,
+      "moviename": "PS I love you",
+      "hero": "Gerard Butler",
+      "heroine": "Hilary Swank",
+      "director": "Richard LaGravenese",
+      "languages": [
+        "English"
+      ],
+      "genre": "romantic",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/p.s.-i-love-you-et00000704-24-03-2017-20-11-12.jpg",
+      "trailer": "https://www.youtube.com/embed/1rqqidmUmSk",
+      "release": "2008",
+      "rating": "9",
+      "synopsis": "Holly Kennedy receives letters from her late husband that bring her hope, strength and inspiration and make her feel as if he is standing by her side each step of the way."
+    },
+    {"id": 60,
+      "moviename": "Evil Dead",
+      "hero": "Morgan Davies",
+      "heroine": "Lily Sullivan",
+      "director": "Lee Cronin",
+      "languages": [
+        "English"
+      ],
+      "genre": "horror",
+      "poster": "https://images.kinorium.com/movie/poster/2651339/w1500_51533336.jpg",
+      "trailer": "https://www.youtube.com/watch?v=BqQNO7BzN08",
+      "release": "2023",
+      "rating": "7.7",
+      "synopsis": "A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+    },
+    { "moviename": "John Wick",
+      "hero": "Keanu Reeves",
+      "heroine": "Adrianne Palicki",
+      "director": "Chad Stahelski,David Leitch",
+      "genre": "Action Crime Thriller",
+      "poster": "https://cdn.shopify.com/s/files/1/0969/9128/products/JohnWick-KeanuReeves-HollywoodEnglishActionMoviePoster-3_032d5e45-69d3-45b2-9481-f5a8a100cf8c.jpg?v=1649071626",
+      "release": "2014",
+      "rating": "7.4",
+      "languages": [
+        "English"
+      ],
+      "synopsis": "Legendary assassin John Wick retired after marrying the love of his life. Her sudden death leaves John in deep mourning. When sadistic mobster steals his car, John seeks vengeance.\n",
+      "id": 61
+    },
+    {"moviename": "John Wick: Chapter2",
+      "hero": "Keanu Reeves",
+      "heroine": "Ruby Rose",
+      "director": "Chad Stahelski",
+      "genre": "Action Crime Thriller",
+      "poster": "https://w0.peakpx.com/wallpaper/237/961/HD-wallpaper-john-wick-2-film-jw2-assassin-action-keanu-reeves-johnwick-jw2.jpg",
+      "release": "2017",
+      "rating": "7.4",
+      "languages": [
+        "English"
+      ],
+      "synopsis": "John Wick`s plans to resume a quiet civilian life are cut short when Italian gangster Santino D`Antonio shows up on his doorstep with a gold marker, compelling him to repay past favours.\n",
+      "id": 62
+    }
+  ]
+}

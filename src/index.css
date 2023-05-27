@@ -1,0 +1,615 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  box-sizing: border-box;
+}
+/* ----------------------------NAV STYLE-------------------------------------  */
+
+nav{
+  height: 70px;
+  color: white;
+  background-color: #002339;
+  padding: 20px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0px;
+  z-index: 1000;
+}
+#logo h1{
+  font-family: 'Bruno Ace SC', cursive;
+  letter-spacing: 4px;
+  font-size: 30px;
+}
+
+#logo h1:hover{
+  border-radius: 5px;
+  box-shadow:7px 5px 7px 5px #019f55 , 7px 5px 7px 5px #002339 , -7px -5px 7px 5px #019f55 , -7px -5px 7px 5px #002339;
+}
+
+#logo a{
+  color: white;
+  text-decoration: none;
+}
+
+#search-bar input{
+  width: 500px;
+  height: 35px;
+  border: none;
+  padding-left: 20px;
+  border-radius: 4px;
+  font-size: 15px;
+  outline: none;
+}
+#search-bar button{
+  width: 80px;
+  height: 35px;
+  border: none;
+  border-radius: 4px;
+  margin-left: -80px;
+  font-size: 15px;
+}
+#add-movie a{
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: 0.2s linear;
+  position: relative;
+  left:90px;
+}
+#add-movie a:hover{
+  background-color: #002339;
+  color: white;
+  border-radius: 8px;
+  box-shadow:5px 3px 5px 3px #019f55 , 5px 3px 5px 3px #002339 , -5px -3px 5px 3px #019f55 , -5px -3px 5px 3px #002339;
+}
+
+#favorite-movie a{
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: 0.2s linear;
+  position: relative;
+  left:90px;
+}
+#favorite-movie a:hover{
+  background-color: #002339;
+  color: white;
+  border-radius: 8px;
+  box-shadow:5px 3px 5px 3px #019f55 , 5px 3px 5px 3px #002339 , -5px -3px 5px 3px #019f55 , -5px -3px 5px 3px #002339;
+}
+
+.sign-up a i{
+  color: white;
+  font-size: 50px;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 50%;
+  transition: 0.2s linear;
+  position: relative;
+  left:70px;
+}
+
+.suggestion-box{
+  width: 250px;
+  background-color:rgba(255, 255, 255, 0.875);
+  color: black;
+  position: absolute;
+  top: 52.8px;
+  left: 365px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.suggestion-box ul{
+  margin-left: 9px;
+  list-style: none;
+  line-height: 36px;
+}
+
+.suggestion-box ul li:hover{
+  background-color: wheat;
+}
+
+
+
+
+/* ----------------------------HOME STYLE-------------------------------------  */
+
+.home{
+  padding: 20px 100px;
+  background-image: radial-gradient(circle, #B9EDDD, #569DAA, #87CBB9, #577D86);
+  
+}
+
+.movies{
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  row-gap: 70px;
+  column-gap: 22px;
+}
+
+.movie{
+  width: 250px;
+  height: auto;
+  text-align: center;
+  padding: 12px;
+  margin-left: 5px;
+  border: solid 1px black;
+  border-radius: 9px;
+  transition: 0.2s;
+  box-shadow:10px 10px 10px 5px #002339, -9px -9px 10px 5px  #042516, -10px -10px 10px 5px #002339, -9px -9px 10px 5px #042516;
+  background: linear-gradient(70deg, rgba(2,0,36,1) 0%, 	rgb(173, 164, 164) 35%,rgba(158, 208, 8, 0.614)50% ,rgba(0,212,255,1) 100%);
+  animation: movie 1s infinite;
+}
+
+@keyframes movie {
+  from {background-color: #38e038;}
+  to {background-color: #996600;}
+}
+
+.movies .movie i{
+  color: red;
+}
+
+.movie a{
+  color: #fff;
+  text-decoration: none;
+}
+.movie img{
+  width: 100%;
+  height: 250px;
+  border-radius: 6px;
+  box-shadow: 1px 1px 1px 3px #002339, -1px -1px 1px 3px  #042516, -1px -1px 1px 3px #002339, -1px -1px 1px 3px #042516;
+}
+.movie:hover{
+  transform: scale(1.2);
+}
+.movie-details{
+  width: 80vw;
+  height: auto;
+  margin: auto;
+}
+
+.movie-details img{
+  width: 300px;
+  height: 350px;
+}
+
+#movie-details-h1{
+  font-size: 40px;
+  padding: 9px;
+  font-weight: 900;
+  font-variant: small-caps;
+}
+
+#movie-details-imgage{
+    width: 500px;
+    height: auto;
+    padding: 12px;
+    margin-top:30px;
+    border: solid 1px black;
+    border-radius: 9px;
+    transition: 0.2s;
+    box-shadow:10px 10px 10px 5px #002339, -9px -9px 10px 5px  #042516, -10px -10px 10px 5px #002339, -9px -9px 10px 5px #042516;
+    background: linear-gradient(70deg, rgba(2,0,36,1) 0%, 	rgb(173, 164, 164) 35%,rgba(158, 208, 8, 0.614)50% ,rgba(0,212,255,1) 100%);
+}
+
+.inside-movie-details{
+    padding: 40px;
+}
+
+iframe{
+  width: 650px;
+  height: 390px;
+  padding: 12px;
+  margin-top:30px;
+  position: relative;
+  left: 55%;
+  top: -700px;
+  border: solid 1px black;
+  border-radius: 9px;
+  transition: 0.2s;
+  box-shadow:10px 10px 10px 5px #002339, -9px -9px 10px 5px  #042516, -10px -10px 10px 5px #002339, -9px -9px 10px 5px #042516;
+  background: linear-gradient(70deg, rgba(2,0,36,1) 0%, 	rgb(173, 164, 164) 35%,rgba(158, 208, 8, 0.614)50% ,rgba(0,212,255,1) 100%);
+}
+
+.movie-details button{
+  width: 200px;
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: #002339;
+  color: white;
+  border-radius: 8px;
+  position: relative;
+  left: 40px;
+  top: -420px;
+  box-shadow:5px 3px 5px 3px #019f55 , 5px 3px 5px 3px #002339 , -5px -3px 5px 3px #019f55 , -5px -3px 5px 3px #002339;
+}
+
+/* ----------------------------ADD MOVIE STYLE-------------------------------------  */
+.add-movie
+{
+  width: 70%;
+  height: auto;
+  margin: 36px auto 36px;
+  background:#002339;
+  max-width: 469px;
+  border: 2px solid rgb(10, 68, 45);
+  border-radius:77px 12px 77px 12px;
+  line-height: 30px;
+  box-shadow: 15px 15px 15px #002339;
+}
+
+.add-movie h1{
+  color: rgba(152, 199, 57, 0.973);
+  padding: 18px;
+  text-align: center;
+  font-size: 36px;
+ 
+}
+
+.add-movie form input{
+  display: block;
+  width: 90%;
+  height: 36px;
+  color: white;
+  padding-left: 5px;
+  margin: 0px auto 5px;
+  border-radius: 3px;
+  border: 1px gainsboro solid;
+  font-size: 16px;
+  outline: none;
+  font-weight: 400;
+  background-color: rgb(97, 77, 80);
+}
+.add-movie form input::placeholder{
+  color: white;
+}
+
+fieldset{
+  margin:0px 24px 10px;
+}
+
+fieldset legend{
+  color: white;
+  margin-left: 10px;
+}
+
+#field input{
+  display: inline-block;
+  width: 7%;
+  height: 16px;
+  margin-bottom: 20px;
+}
+#field label{
+  color: rgb(234, 227, 222);
+}
+
+textarea{
+  width: 95%;
+  width: 90%;
+  height: 100px;
+  margin: 10px 22px 10px;
+  border-radius: 3px;
+  outline: none;
+}
+#btn{
+  width: 200px;
+  background-color: #019f55;
+  color: black;
+  font-weight: bolder;
+  border-radius: 30px 5px 30px 5px;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+
+
+/*-------------------------SignUpform  &  SignIn page & ForgotPassword--------------------------------*/
+
+.signup, .signinpage, .forgotpage{
+  width: 70%;
+  height: auto;
+  margin: 36px auto 36px;
+  background:#002339;
+  max-width: 469px;
+  border: 2px solid rgb(10, 68, 45);
+  border-radius: 77px 12px 77px 12px;
+  line-height: 30px; 
+  box-shadow: 15px 15px 15px #002339;
+}
+
+.signup h1, .signinpage h1, .forgotpage h1{
+  color: rgba(152, 199, 57, 0.973);
+  padding: 18px;
+  text-align: center;
+  font-size: 36px;
+}
+
+.signup form input, .signinpage form input, .forgotpage form input{
+  display: block;
+  width: 90%;
+  height: 36px;
+  color: white;
+  padding-left: 5px;
+  margin: 0px auto 5px;
+  border-radius: 3px;
+  border: 1px gainsboro solid;
+  font-size: 16px;
+  outline: none;
+  font-weight: 400;
+  background-color: rgb(97, 77, 80);
+}
+
+.signup form input::placeholder, .signinpage form input::placeholder , .forgotpage form input::placeholder{
+  color: white;
+}
+
+#btn1{
+  width: 200px;
+  background-color:#019f55;;
+  color: black;
+  font-weight: bolder;
+  border-radius: 30px 5px 30px 5px;
+  border: none;
+  margin: 15px auto;
+}
+
+#btn2{
+  display: inline;
+  width: 100px;
+  background-color:#019f55;;
+  color: black;
+  font-weight: bolder;
+  border-radius: 30px 5px 30px 5px;
+  border: none;
+  margin: 15px auto;
+  position: relative;
+ left: 230px;
+}
+
+.signin-option, .forgot-option{ 
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.signin-option span{
+  color: #fff;
+  text-align: center;
+}
+
+.signin-option a, .forgot-option a{
+  text-decoration: none;
+  color: royalblue;
+  margin-left:6px;
+}
+/* ----------------------------WHISLIST STYLE-------------------------------------  */
+.movie #whislist{
+  border: none;
+  outline: none;
+  background: none;
+}
+
+.movie .filled{
+  color: red;
+  font-size: 40px;
+  position: relative;
+  left: 100px;
+  animation: filledheart 1s;
+}
+
+@keyframes filledheart{
+  0%{
+    transform: scale(0);
+  }
+  60%{
+    transform: scale(1.2);
+  }
+  100%{
+    transform: scale(1);
+  }
+}
+
+.movie #empty{
+  color: #fff;
+  font-size: 40px;
+  position: relative;
+  left: 100px;
+  animation: emptyheart 1s;
+}
+
+@keyframes emptyheart{
+  0%{
+    transform: scale(0);
+  }
+  60%{
+    transform: scale(1.2);
+  }
+  100%{
+    transform: scale(1);
+  }
+}
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Responsive style  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/* @media (max-width:900px)
+{
+  nav{
+    padding: 20px 60px;
+  }
+
+  #logo h1{
+    font-size: 25px;
+  }
+
+  #search-bar{
+    width: 350px;
+  }
+
+  #search-bar input{
+    width: 250px;
+    height: 35px;
+    font-size: 13px;
+  }
+
+  #search-bar button{
+    width: 80px;
+    height: 35px;
+    margin-left: -60px;
+    font-size: 13px;
+  }
+
+  #add-movie, #favorite-movie, .sign-up{
+    display: none;
+  }
+} */
+
+@media (max-width:1020px) 
+{
+  nav{
+    padding: 20px 60px;
+  }
+  #logo h1{
+    font-size: 25px;
+  }
+  #search-bar{
+    width: 300px;
+  }
+  #search-bar input{
+    width: 250px;
+    height: 35px;
+    font-size: 13px;
+  }
+  #search-bar button{
+    width: 60px;
+    height: 35px;
+    margin-left: -60px;
+    font-size: 13px;
+  }
+  #add-movie, #favorite-movie, .sign-up{
+    display: none;
+    font-size: 25px;
+  }
+  #hamberger{
+    display: block;
+  }
+  #hamberger span{
+    font-size: 30px;
+  }
+  #menu{
+    background-color: black;
+    width: 170px;
+    position: absolute;
+    top: 75px;
+    right: 50px;
+  }
+  #menu a{
+    display: block;
+    margin: 5px 10px;
+    color: white;
+    font-size: 15px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: 0.2s linear;
+  }
+  #menu a:hover{
+    color: black;
+    background-color: white;
+  }
+}
+
+/*--------------------------------mobile screen---------------- */
+
+@media (max-width:700px) 
+{
+  nav{
+    padding: 20px 40px;
+  }
+  #logo h1{
+    font-size: 20px;
+  }
+  #search-bar{
+    width: 250px;
+  }
+  #search-bar input{
+    width: 150px;
+    height: 35px;
+    font-size: 10px;
+  }
+  #search-bar button{
+    width: 40px;
+    height: 35px;
+    margin-left: -30px;
+    font-size: 10px;
+  } 
+
+  .home{
+    padding: 50px;
+  }
+
+  .movie-list{
+    width: 90vw;
+  }
+
+  .movies{
+    width: 100%;
+    height: 400px;
+    flex-direction: column;
+    overflow: auto;
+  }
+
+  .movie{
+    width: 210px;
+    margin: 0px 20px;
+    padding: 10px;
+    transition: 0.2s;
+  }
+
+  .movie a{
+    color: black;
+    text-decoration: none;
+  }
+
+  .movie img{
+    width: 100%;
+    height: 210px;
+    border-radius: 6px;
+  }
+
+  .movie:hover{
+    transform: scale(1.05);
+  }
+
+  .movie h2{
+    font-size: 20px;
+  }
+
+  .add-movie{
+    transition: scale(1);
+    margin: 0px auto;
+  }
+
+  .add-movie h1{
+    margin: 0px;
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "RajuGuttedar",
+      "email": "raju@gmail.com",
+      "password": "raju@123",
+      "re_enterd_password": "raju@123",
+      "mono": "9876543210",
+      "dob": "1999-12-02",
+      "id": 1
+    },
+    {
+      "username": "Kiran M V",
+      "email": "kiran@gmail.com",
+      "password": "kiran@1998",
+      "re_enterd_password": "kiran@1998",
+      "mono": "7339947008",
+      "dob": "1998-11-25",
+      "id": 2
+    }
+  ]
+}
