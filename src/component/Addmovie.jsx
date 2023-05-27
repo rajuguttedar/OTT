@@ -60,9 +60,7 @@ const Addmovie = () => {
 
     return ( 
         
-        <div>
-            <h1>this is add movie</h1>
-            
+        <div>   
         <div className="add-movie"> 
             <h1>ADD NEW MOVIE</h1>
             <form onSubmit={handleAddMovie}>
